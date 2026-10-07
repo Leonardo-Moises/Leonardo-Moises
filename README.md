@@ -23,15 +23,23 @@ Currently developing my skills across backend development, APIs, databases, and 
 
 <img src="https://skillicons.dev/icons?i=java,js,python,nodejs,c&theme=dark" alt="Development technologies" />
 
+**Data & Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database technologies" />
+
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools and platforms" />
+
+**Enterprise Platforms**
+
+`Genesys Cloud` `SAP`
 
 ---
 
 ## Featured Project
 
-### 🔐 Cryptography in C
+### 🔐 [Cryptography in C](https://github.com/Leonardo-Moises/atividade-criptografia)
 
 Academic project developed in C combining programming logic, mathematical sequences, and a Caesar Cipher to create a two-layer encryption process.
 
