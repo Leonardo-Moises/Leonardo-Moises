@@ -1,16 +1,55 @@
-## Hi there 👋
+# Leonardo Moisés
 
-<!--
-**Leonardo-Moises/Leonardo-Moises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | AI • Automation • Backend Development
 
-Here are some ideas to get you started:
+I build software with a focus on backend development, intelligent automation, and practical applications of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  📍 São Paulo, Brazil &nbsp;•&nbsp; 🎓 Software Engineering &nbsp;•&nbsp; 💡 AI & Automation
+</p>
+
+---
+
+## About
+Software Engineering student focused on building reliable software and exploring how AI and automation can solve real-world problems.
+
+Currently developing my skills across backend development, APIs, databases, and software integration while turning what I learn into practical projects.
+
+---
+
+## Tech Stack
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,c&theme=dark" alt="Development technologies" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools and platforms" />
+
+---
+
+## Featured Project
+
+### 🔐 Cryptography in C
+
+Academic project developed in C combining programming logic, mathematical sequences, and a Caesar Cipher to create a two-layer encryption process.
+
+`C` `Algorithms` `Cryptography` `Mathematics` `File Handling`
+
+[View Repository →](https://github.com/Leonardo-Moises/atividade-criptografia)
+
+---
+
+## Current Focus
+
+- Backend Development & REST APIs
+- AI & Intelligent Automation
+- Databases & SQL
+- Software Engineering fundamentals
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Moisés-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardomoises-dev)
