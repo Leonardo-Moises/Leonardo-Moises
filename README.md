@@ -1,6 +1,6 @@
 # Leonardo Moisés
 
-### Software Engineering Student | AI • Automation • Backend Development
+### Software Engineering Student | AI • Automation | Fullstack Development
 
 I build software with a focus on backend development, intelligent automation, and practical applications of AI.
 
