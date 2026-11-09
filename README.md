@@ -5,7 +5,7 @@
 I build software with a focus on backend development, intelligent automation, and practical applications of AI.
 
 <p>
-  📍 São Paulo, Brazil &nbsp;•&nbsp; 🎓 Software Engineering &nbsp;•&nbsp; 💡 AI & Automation
+   São Paulo, Brazil &nbsp;•&nbsp;  Software Engineering &nbsp;•&nbsp;  AI & Automation
 </p>
 
 ---
