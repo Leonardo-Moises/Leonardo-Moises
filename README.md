@@ -60,4 +60,4 @@ Academic project developed in C combining programming logic, mathematical sequen
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Moisés-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardomoises-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Moisés-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/leonardomoises-dev](https://www.linkedin.com/in/leonardomoises-dev/))
